@@ -1,0 +1,35 @@
+#example1_filter{
+	float: right !important;
+}
+#example1_paginate{
+    float: right;
+}
+#catagory_table_filter{
+    float: right !important;
+}
+#catagory_table_paginate{
+    float: right;
+}
+.custom-feature-block{
+	display: inline-block;
+}
+.custom-feature-block .shipping-icon{
+	width: 100px;
+    height: 100px;
+    text-align: center;
+    border: 1px solid;
+    border-radius: 100%;
+    margin: auto;
+    display: block;
+   
+   
+}
+.custom-feature-block .shipping-icon i{
+ color: #d8373e !important;
+ font-size: 70px;
+ line-height: 100px;
+}
+
+.custom-cata-subcata{
+  background: #e04e4e;
+}
